@@ -133,7 +133,7 @@ $ git merge new-two
 git branch -d <имя_ветки>
 ```
 
-![delete](1/delete.jpg)
+![delete](1/123.jpg)
 
 <a name="editing-n-fixing"></a>
 
